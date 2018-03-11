@@ -7,16 +7,18 @@
 #include <stdlib.h>
 #include <assert.h>
 #define START_OF_CALENDAR 1582
+// Define TRUE as 1 and FALSE as 0.
 #define TRUE 1
 #define FALSE 0
 
-// Declare the function
+// Declare the function - important.
 int isLeapYear(int year);
 
 int main(int argc, const char * argv[]){
 	int year;
 	int isLeap;
-
+	
+	// Asks for the user input.
 	scanf("%d",&year);
 	
 	// Assigns isLeap to the return value of calling the function
@@ -30,7 +32,8 @@ int main(int argc, const char * argv[]){
 }
 
 int isLeapYear(int year){
-
+	
+	// Defines isLeap as an integer
 	int isLeap;
     
     // Testing whether year is a leap year
