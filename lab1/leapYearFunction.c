@@ -6,6 +6,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
+// Start of the calender
 #define START_OF_CALENDAR 1582
 // Define TRUE as 1 and FALSE as 0.
 #define TRUE 1
@@ -37,20 +38,26 @@ int isLeapYear(int year){
 	int isLeap;
     
     // Testing whether year is a leap year
+	// If year % 0 == 0, assign isLeap to 1.
     if ((year % 400) == 0){
     	isLeap = 1;
+	    	// If year % 0 == 0, assign isLeap to 0.
     }else if((year % 100) == 0){
 		isLeap = 0;
+	    	// If year % 0 == 0, assign isLeap to 1.
 	}else if((year % 4) == 0){
 		isLeap = 1;
 	}else{
 		isLeap = 0;
 	}			
 	
-	// Returning 0 or 1, where 0 is FALSE and 1 is TRUE (constants)
+	// Remember that 1 is TRUE and 0 is FALSE
+	// (defined in the constants at the top!)
 	if (isLeap == 1){
+		// If isLeap == 1, return TRUE
 		return 1;
 	}else if (isLeap == 0){
+		// If isLeap == 0, return FALSE
 		return 0;
 	}
 }
