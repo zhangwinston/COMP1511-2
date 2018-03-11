@@ -56,7 +56,7 @@ int isLeapYear(int year){
 	if (isLeap == 1){
 		// If isLeap == 1, return TRUE
 		return 1;
-	}else if (isLeap == 0){
+	}else{
 		// If isLeap == 0, return FALSE
 		return 0;
 	}
