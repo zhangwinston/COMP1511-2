@@ -1,0 +1,126 @@
+COMP1511 "Computing 1: The Art of Programming" is UNSW Computing's introductory course in computing. In this course you will learn programming in the small using the language C. The course has a focus on craftsmanship, teamwork and project and time management.
+
+The Official Course Outline can Be Found Here, but all the important information can be found in this website.
+
+Course Schedule
+Times and locations for classes for the  2018 semester 1 offering of the course and  can be found on the course schedule.
+
+The Philosophy of the Course
+We've put a lot of thought into the way we have designed the course and the way we teach it.
+
+How to approach this course.
+Don't take This Course
+ 
+
+Pair Programming
+ 
+
+Pair programming does not mean two people sitting at two screens with two computers and two keyboards. It means two people working on one computer - one typing and one looking and talking.
+
+Pair programming is an important feature of modern programming and you will be practicing it regularly in this course. It involves two people sitting together programming together on one machine and sharing one keyboard. One drives and one stands by and looks and talks and asks. You swap roles regularly. No one is in charge. You must compromise and work together - not work individually on parallel courses. Even if one programmer is more experienced than the other each should have an equal role and power.
+
+Your lab activities are to be done by pair programming. Your tutor will organise you into pairs at the beginning of the course and these will be changed a number of times during the course to give you a chance to work with different people.
+
+ 
+
+Online Lectures
+There are video recordings of all the lectures in the course available online. You should watch and make notes or blog about each lecture in advance of the relevant face-to-face class so you are ready to ask or answer questions about the material during your face to face classes.
+
+Some weeks you may be responsible for writing the official lecture notes for the Course Textbook. The text book is a collaborative effort by all the students that you will all be able to use for study and will be able take into part of the final exam. You should check the schedule so you know which weeks you are responsible for.
+
+Face to Face Classes
+Each week you attend a combined face to face tute+lab class. Your tutor and any mentors helping them will be your main point of face to face contact in the course. Make sure you talk to them regularly so they get to know you and understand your progress strengths and weaknesses and can help you.
+
+The first part of each tutorial class will be a code review presented by your fellow students.  Don't be late - be respectful. You'll need to participate in the code review discussions each week to get the full benefit from them. The rest of the tutorial will be spent discussing other various aspects of the course and solving problems.
+
+In the lab you will work on the week's Pair-Programming activities with your lab partner in the lab. Activities to be done in the lab with your partner are marked with the prefix TutLab.  Each week one pair will do a code review in the tutorial class, reviewing one of their activities from the previous week.
+
+In the tutorial time you will discuss any problems you are having with the course material or current week's activities in the tutorial. You can ask questions and get help from your classmates and tutor in this time, especially if you are stuck on the weekly activities. Some activities will need to be demonstrated to your tutor and signed off by them. Make sure you complete all the activities each week as subsequent material will often rely upon you having completed and understood them.
+
+What to do each week
+Each week you will:
+
+Watch the lecture videos for the current week (released by the previous Wednesday (maybe earlier) and watch before the following Wednesday class)
+tip from former students: don't skip videos or fall behind.
+even if you can already program :)
+tip from former students: you can watch videos at 1.5  speed.
+tip from former students: plan and set regular time aside each week to watch the videos
+Do the activities for the current module
+challenge activities are optional - do them when you want to be challenged - to stretch yourself aim to do as many as you can over the course.
+do the activities labelled TutLab as pair programming activities sitting with your pair programming partner in the lab
+you may do the activities that are not labelled TutLab on your own before or after the lab.
+Do regular private programming practice to hone your skills
+Think about and reflect on your learning and progress in the course. Jot this down in your blog.
+Some weeks you will also:
+
+Have editorial responsibility for the notes/summary for one of the lecture videos
+Give a code review to your tutorial class of the pair programming activity from the previous week ( your tutor will schedule these)
+ 
+Style Guide
+All programming in this course must comply with the course C style guide. If you have previous programming experience this will likely differ from your current style so read it carefully. If you are a new programmer then don't worry - we will explain it as the course progresses. Code in this course will be assessed for correctness and for style. You will also be assessed on your style and how it develops in the craftsmanship section of the resume (see below).
+
+Assignment Tasks
+There are two medium sized programming assignment tasks due in the first half of the course. The tasks will be discussed in lectures before they commence.
+
+Major Project
+The main learning activity in the course is an extended programming project. The project will be partly tutorial group work and partly pair work. The project will commence halfway through the course. You will make regular progress submissions of your program over the duration of the project.
+
+Blog
+You are to create and make regular (at least weekly) contributions to your blog on the course OpenLearning site. This will be explained in lectures and in lab exercises in the first few weeks of the course.
+
+Code review
+Each week a pair of students will present their code and design from the previous week's pair programming activity to their tutorial class as a Code Review. Your tutor will tell you beforehand which activity and which week(s) you will be doing this.
+
+Please don't be late for your tutorial class as this will be disruptive for the students whose code is being reviewed.
+
+Resume
+Over the semester you are to create an online resume (aka portfolio) demonstrating evidence of your mastery of 4 key skills central to the course:
+
+Teamwork,
+Project management/Time management,
+Artisanship (aka Craftsmanship),
+Something Awesome - do something which demonstrates you have acquired or improved an awesome course skill over the semester
+The details of what you should include in your resume, and the mechanics of writing it, will be discussed in lectures in more detail over the course and you can read about it in more detail here.
+
+Assessment
+Your final result:
+
+33% Resume
+33% Final Exam
+34% Prac Exams
+
+
+Infographic by former student John Wang :)
+
+ 
+
+Theory Exam
+There will be a final theory exam at the end of session. This exam will take place in a computer lab where answers will typed in, but there will be no programming or use of compilers. During this exam students will have access to the pdf version of the lecture notes they create as a course.
+
+Prac Exams
+The prac exam will be held on the same day as the final theory exam. You will receive the exact time and location in the week before the exam. It is not be designed to be a hard exam - it is aimed to distinguish between the pass and fail level. 20 marks of the prac exam will be on linked lists and dynamic memory allocation, and the remaining 14 marks will be on miscellaneous C programming and debugging skills.
+
+There will be a practice prac exam held in the Week 13 Mega Tutorial. This will be of the same nature as the final prac exam to give you practice at doing a practical programming exam under exam conditions. Once we have covered dynamic data structures the class will vote on which weeks we will run practice sessions. We will also try to run some self supervised warm-up prac exams over the semester.
+
+The practice prac exam be a one hour exam and will be on dynamic memory allocation (ie using malloc) and/or dynamic data structures (eg linked lists). It will be marked on a pass/fail basis. Passing means full marks. If the practice prac exam is invigilated then passing it will exempt you from the equivalent part of the final prac exam.
+
+Unless otherwise instructed submissions must be correct and have no memory leaks, potential security vulnerabilities, or other memory errors.
+
+The prac exams will use gedit and gcc and will be run under linux on the cse lab machines. Make sure you are familiar with these tools and this environment in advance.
+
+Puzzle Quest
+What? What is a puzzle-quest? How can I get one?
+
+ 
+Assumed Knowledge
+This course does not assume that you can already program, but it does assume that students who have never programmed before will work hard in the first 4 weeks to master the basics of programming that we introduce over that time. We do assume that you are motivated, smart, and keen to learn the craft of computing.
+
+Text Book
+There is no official textbook that you must buy for the course but the following are useful if you would prefer to buy one. The first is suitable for to be used for this course and the second one is good for a longer term reference book.
+
+Alistair Moffat, Programming, Problem Solving, and Abstraction with C, Pearson Educational, Australia, 2003, ISBN 1-74103-080-3.
+Brian W. Kernighan and Dennis M. Ritchie, The C Programming Language, 2nd edition, Prentice Hall, USA, 1988, ISBN 0-13-110370-9.
+ 
+
+More information
+Additional information you might find useful can be found on the Help and Resources page.
